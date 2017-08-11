@@ -33,30 +33,3 @@ if(a_to_vk)
 {a_to_vk.innerHTML+=a_to_va;}}
 function a_to_fa()
 {var a_to_vf=new Array();protected_links=protected_links.replace(" ","");a_to_vf=protected_links.split(",");return a_to_vf;}
-
-
-
-
-
-
-
-
-<center>
-<div id="daplong">
-</div>
-<script src="https://cdn.rawgit.com/Robik1235/sada/c009277c/ah.js" type="text/javascript"></script>
-<script type="text/javascript">//<![CDATA[
-function changeLink(){var e=Base64.decode(res);window.open(e,"_blank")}var currentURL=location.href,str=currentURL,res=str.replace("http://furelink.blogspot.com/p/post-5.html?url=","");document.write('<button id="download" class="Visit_Link" onclick="changeLink();" style="display: none;text-align:justify;margin-bottom:3px;">Menuju Link</button>');
-onload:generate();//]]></script>
-</center>
-
-
-
-<center>
-<div id="daplong">
-</div>
-<script src="https://cdn.rawgit.com/Robik1235/sada/c009277c/ah.js" type="text/javascript"></script>
-<script type="text/javascript">//<![CDATA[
-function changeLink(){var e=Base64.decode(res);window.open(e,"_blank")}var currentURL=location.href,str=currentURL,res=str.replace("http://furelink.blogspot.com/p/post-5.html?url=","");document.write('<button id="download" class="Visit_Link" onclick="changeLink();" style="display: none;text-align:justify;margin-bottom:3px;">Menuju Link</button>');
-onload:generate();//]]></script>
-</center>
